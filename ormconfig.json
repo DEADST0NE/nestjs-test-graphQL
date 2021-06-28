@@ -1,0 +1,10 @@
+{
+  "type": "mysql",
+  "host": "194.67.116.103",
+  "port": 3306,
+  "username": "test_task_usr",
+  "password": "12345678",
+  "database": "test_task",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": false
+}
